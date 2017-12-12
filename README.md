@@ -32,3 +32,4 @@ Implementation of a few types of Generative Adversarial Networks in Keras.
 Note: Training the GAN for longer would give us much better results, which are not as blurry.
 
 <hr />
+mygithub
